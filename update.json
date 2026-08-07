@@ -3,9 +3,9 @@
     "kutuphane-kopru@ibrahimyildiz.art": {
       "updates": [
         {
-          "version": "0.1.16",
-          "update_link": "https://github.com/sanaatchi/zotero-kutuphane-kopru-releases/releases/download/v0.1.16/zotero-kutuphane-kopru.xpi",
-          "update_hash": "sha512:65d3db60558e0a026869258ea764c9be5e893ce9bb336e40b0f5d719bc909add26a8f89932d16b2fa047f28411b444953360861b797b19218f3522ea92a0a19f",
+          "version": "0.1.17",
+          "update_link": "https://github.com/sanaatchi/zotero-kutuphane-kopru-releases/releases/download/v0.1.17/zotero-kutuphane-kopru.xpi",
+          "update_hash": "sha512:4d6905a7cb41fdbaf4de89250d5aa2182262669db7bcde3d0c921b32e56c909907b5d16a23750e3d599b471b69381b1e413cef5184fd94d55cfa46cbdcf102a6",
           "applications": {
             "zotero": {
               "strict_min_version": "7.0",
